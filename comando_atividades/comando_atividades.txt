@@ -1,0 +1,6 @@
+estrutura de pastas 
+
+ls/dir/ll-> listar pastas
+
+para entrar lista cd nomedapasta e pra voltar a pasta cd ..
+.-> ponto unico significa  'a partir daqui'
